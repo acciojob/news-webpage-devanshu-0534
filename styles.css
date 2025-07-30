@@ -42,7 +42,7 @@ body{
 	width:200px;
 	height:400px;
 	background-color:white;
-	gap:10px;
+	text-align:center;
 	justify-items:center;
 	padding:20px;
 }
